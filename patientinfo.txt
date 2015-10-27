@@ -1,0 +1,7 @@
+Patient Name: Matte
+Patient's Age: 123
+Patient's Current Symptoms: None
+Patient's Current Medication(s): None
+Patient's Procedure Code: 1234
+Patient's Procedure Name: None
+Patient's Medicare Payment: $0
